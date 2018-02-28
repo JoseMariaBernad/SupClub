@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="SupClub.Views.ReservationPage"
+             Title="{Binding Title}">
+    <StackLayout Orientation="Vertical">
+        <Label Text="Fecha Inicio"/>
+        <DatePicker Date="{Binding Reservation.StartDate, Mode=TwoWay}" />
+        <Label Text="Fecha Fin"/>
+        <DatePicker Date="{Binding Reservation.EndDate, Mode=TwoWay}" />
+        <Label Text="Tabla"/>
+        <Label Text="{Binding Reservation.BoardModel}" />
+        <Button Text="Cancelar Reserva" Command="{Binding CancelReservationCommand}" />
+    </StackLayout>
+</ContentPage>

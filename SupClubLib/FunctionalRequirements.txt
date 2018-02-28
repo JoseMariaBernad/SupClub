@@ -1,0 +1,34 @@
+﻿Functional Requirement 1 (FR_1)
+User can reserve a board for the next 30 coming days
+FR_1.1
+Start date cannot be in the past
+FR_1.2
+Current date is valid as start date
+
+FR_2
+User must select at least 1 days per reservation.
+Example: StartDate = Nov 24th implies that EndDate >= Nov 24th
+FR_2.1
+Max days per reservation is 15
+
+FR_3
+User selects start and end dates and app allows to select only available boards 
+FR_3.1
+Reservation days are included. If a board is reserved from 24th till 26th that board cannot have
+another reservation until 27th.
+
+FR_4
+When user clicks confirm reservation, the reservation will automatically be confirmed.
+FR_4.1
+Before confirming reservation, the system (or device) will check that this does not
+conflict with any existing reservation.
+
+FR_5
+User can cancel reservations anytime before the start date of the reservation. Cancelled reservations
+will not be deleted. They will remain stored as Cancelled.
+FR_5.1
+Cancelled reservations do not conflict with other reservations. In other words, only Confirmed reservations
+conflict with other reservations.
+FR_5.2
+Cancelled reservations do not make Boards unavailable. In other words, only Confirmed reservations make boards
+unavailable during the start and end date time frame of the confirmed reservation.

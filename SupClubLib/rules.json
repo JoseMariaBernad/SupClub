@@ -1,0 +1,39 @@
+﻿{
+  "rules": {
+    "boards": {
+      ".read": "auth != null",
+      ".write": "auth != null && data.parent().child('administrators').child(auth.uid).exists()"
+    },
+    "users": {
+      "$userId": {
+        ".read": "auth.uid == $userId",
+        ".write": "auth.uid == $userId && auth.token.email_verified == true"
+      }
+    },
+    "reservations": {
+      ".read": "auth != null",
+      "$reservationId": {
+        ".write": "auth != null && newData.child('UserId').val() == auth.uid"
+      }
+    }
+  }
+}
+
+/* test user write
+   Location: /users/O10J1ThKZPPUHn7rRzsbSkPGs762
+   data:
+{
+  "DateOfBirth": "1990-01-12T00:00:00",
+  "Email": "josemari.bernad@gmail.com",
+  "IsEmailVerified": true,
+  "Level": 2,
+  "Name": "Jose Maria",
+  "Phone": "976223344",
+  "Surname": "Bernad",
+  "UserId": "O10J1ThKZPPUHn7rRzsbSkPGs762",
+  "Weight": 80
+}
+
+Provider: Anonymous
+UID: O10J1ThKZPPUHn7rRzsbSkPGs762
+*/

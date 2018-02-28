@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             xmlns:local="clr-namespace:SupClub.Behaviors"
+             x:Class="SupClub.Views.ReservationsPage"
+             Title="{Binding Title}">
+    <StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Switch IsToggled="{Binding OnlyMine, Mode=TwoWay}" />
+            <Label Text="Solo mías"/>
+            <Switch IsToggled="{Binding OnlyActive, Mode=TwoWay}" />
+            <Label Text="Solo activas"/>
+        </StackLayout>
+        <ListView
+                ItemsSource="{Binding Reservations}"
+                SelectedItem="{Binding SelectedReservation}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell
+                            Text="{Binding BoardModel}"
+                            Detail="{Binding TimeFrame}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Behaviors>
+                <local:ItemSelectedToCommandBehavior Command="{Binding SelectCommand}" />
+            </ListView.Behaviors>
+        </ListView>
+        <Button Text="Nueva Reserva" Command="{Binding NewReservationCommand}" />
+    </StackLayout>
+</ContentPage>
