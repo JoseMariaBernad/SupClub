@@ -25,6 +25,7 @@ Known Paddle Surf clubs using this application:
 9. In Visual Studio, replace all the occurrences of these strings with the ones obtained in the previous step.
  - \<YourFirebaseApiKey> 
  - \<YourFirebaseDatabaseURL>
+10. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjg4MTA0NV19
+eyJoaXN0b3J5IjpbODIyNzMzODQyXX0=
 -->
