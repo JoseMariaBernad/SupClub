@@ -22,8 +22,9 @@ Known Paddle Surf clubs using this application:
 8. Take note of following variables:
     - apiKey: "xxxxyyyyyyzzzzzzzzzzz"
     - databaseURL:  "https://\<your-firebase-project>.firebaseio.com"
-9. In Visual Studio, replace all the occurrences of these strings:
+9. In Visual Studio, replace all the occurrences of these strings with the ones obtained in the previous step.
  - \<YourFirebaseApiKey> 
+ - \<YourFirebaseDatabaseURL>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzM4MTgxM119
+eyJoaXN0b3J5IjpbMTIyMjg4MTA0NV19
 -->
