@@ -20,7 +20,7 @@ Known Paddle Surf clubs using this application:
 7. Under Authentication, click WEB SETUP link.
 ![enter image description here](https://lh3.googleusercontent.com/7BCJ1OVLkMtk38UoqeD76Mq80VaL9fV4gpjX9h3xcaZyWnN4_4LqMbFFW8wB9XUQZ0XhqcHEZtQ "Web Setup")
 8. Take note of following variables:
-    - 
+    - apiKey: "AIzaSyDWCebHGTQDNourgvicCMnHgaAEoVPITVA"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIwMDU5NTldfQ==
+eyJoaXN0b3J5IjpbLTQ3MjQzMTE2OF19
 -->
