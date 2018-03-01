@@ -17,7 +17,9 @@ Known Paddle Surf clubs using this application:
 ![Sign-In Method](https://lh3.googleusercontent.com/tQQ_Vltm0rww31nU8Y17xf9sBzyurTkX7HTwcSdt3Q8Vyv9iErfukHVv2rCOtYf9va68Zy91uTY)
 6. Under database / rules, paste the contents of the file [rules.json](/SupClubLib/rules.json) and click Publish.
 ![enter image description here](https://lh3.googleusercontent.com/Z0PsNOas0NWpaRIuil6MBSO3TXA00dVfKfSCrOKjRpuoCDfCZqFc-vcyB9K8P8dJ0hQlgEb88E8 "Database rules")
-7. 
+7. Under Authentication, click WEB SETUP link.
+
+8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg4NzU3NTBdfQ==
+eyJoaXN0b3J5IjpbMTM2OTEyMzQ2OV19
 -->
