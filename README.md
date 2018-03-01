@@ -3,6 +3,8 @@ SupClub is an open source application for Xamarin Forms platform.
 
 Its intended use is for the users of any Paddle Surf club to be able to make reservations of their boards.
 
+Known Paddle Surf clubs using this application:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTQzMjEzM119
+eyJoaXN0b3J5IjpbLTc4Mzc4OTQ3NV19
 -->
