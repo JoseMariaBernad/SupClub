@@ -22,6 +22,7 @@ Known Paddle Surf clubs using this application:
 8. Take note of following variables:
     - apiKey: "xxxxyyyyyyzzzzzzzzzzz"
     - databaseURL:  "https://your-firebase-project.firebaseio.com"
+    - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTcxODAzXX0=
+eyJoaXN0b3J5IjpbMTM2MDQ0ODIyNF19
 -->
