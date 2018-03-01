@@ -10,7 +10,8 @@ Known Paddle Surf clubs using this application:
 1. [Clone](x-github-client://openRepo/https://github.com/JoseMariaBernad/SupClub) or [Download](https://github.com/JoseMariaBernad/SupClub/archive/master.zip) this repository.
 2. Go to your [Firebase Console].(https://console.firebase.google.com/)
 3. Create new Firebase project.
-4. Under Authentication, Add Email/Password Sign In method.
+4. Under Authentication, Add Email/Password Sign In method.![Sign in method
+5. ](https://picasaweb.google.com/113767045920483541963/6527921325248096417#6527921322702460962 "Sign-In Method")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MzgzMTYzXX0=
+eyJoaXN0b3J5IjpbLTE4NDMxODQ3NzZdfQ==
 -->
