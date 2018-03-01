@@ -21,8 +21,9 @@ Known Paddle Surf clubs using this application:
 ![enter image description here](https://lh3.googleusercontent.com/7BCJ1OVLkMtk38UoqeD76Mq80VaL9fV4gpjX9h3xcaZyWnN4_4LqMbFFW8wB9XUQZ0XhqcHEZtQ "Web Setup")
 8. Take note of following variables:
     - apiKey: "xxxxyyyyyyzzzzzzzzzzz"
-    - databaseURL:  "https://your-firebase-project.firebaseio.com"
-9. In Visual Studio, replace all the occurrences of these
+    - databaseURL:  "https://\<your-firebase-project>.firebaseio.com"
+9. In Visual Studio, replace all the occurrences of these strings:
+ - \<YourFirebaseApiKey> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODIyMTYyMV19
+eyJoaXN0b3J5IjpbLTgwMzM4MTgxM119
 -->
