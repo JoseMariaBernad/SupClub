@@ -11,7 +11,7 @@ Known Paddle Surf clubs using this application:
 2. Go to your [Firebase Console](https://console.firebase.google.com/).
 3. Create new Firebase project.![Add project](https://lh3.googleusercontent.com/6NqWWvFG2FCTv9jWKo2zAfSoNlgTWyP9exAc1tTZawVHkSxHlDTr5TzB0CNFMMJJOX4aEkiO1Is "Add project")
 4. Under Authentication, Add Email/Password Sign In method. ![Sign-In Method](https://lh3.googleusercontent.com/tQQ_Vltm0rww31nU8Y17xf9sBzyurTkX7HTwcSdt3Q8Vyv9iErfukHVv2rCOtYf9va68Zy91uTY)
-5. Under database
+5. Under database / rules, paste the contents of the file under 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1Nzg1OTc1XX0=
+eyJoaXN0b3J5IjpbMTQ1NDA2NjkwNV19
 -->
