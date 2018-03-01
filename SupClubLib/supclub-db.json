@@ -1,0 +1,89 @@
+{
+  "administrators" : {
+    "O10J1ThKZPPUHn7rRzsbSkPGs762" : ""
+  },
+  "boards" : {
+    "-L0OivJFTqpEFJ3Wgxvo" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "Mistral 12,6 M2 Rígida Tipo RACE",
+      "Type" : 2
+    },
+    "-L0P_aZsbdjELt_eE4xm" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "Mistral 14 M1 Hinchable Tipo RACE",
+      "Type" : 2
+    },
+    "-L0P_qdluzWbYK2YkgPl" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "RedPadldle 14 Hinchable Tipo RACE",
+      "Type" : 2
+    },
+    "-L0PbI8sDKQFTdsBgf0e" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "RedPadldle 14 Hinchable Tipo RACE",
+      "Type" : 2
+    },
+    "-L0PdP4SPXbgqN7a_VCC" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "RedPaddle 22 DRAGON Tipo RACE (4 personas)",
+      "Type" : 2
+    },
+    "-L0Pdk7sxG-iqKPjA_eS" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "SPS 10,5 Hinchable Tipo ALL-AROUND",
+      "Type" : 2
+    },
+    "-L0PePIL8bLoGMe7AJrN" : {
+      "Level" : 2,
+      "MaxWeight" : 120,
+      "MinWeight" : 50,
+      "Mode" : 1,
+      "Model" : "SPS 11,5 Hinchable Tipo TOURING",
+      "Type" : 2
+    }
+  },
+  "reservations" : {
+    "-L6CyQL6v9ZGNRREfWvy" : {
+      "BoardId" : "-L0P_qdluzWbYK2YkgPl",
+      "BoardModel" : "RedPadldle 14 Hinchable Tipo RACE",
+      "EndDate" : "2018-02-25T00:00:00+01:00",
+      "StartDate" : "2018-02-25T00:00:00+01:00",
+      "Status" : 2,
+      "UserId" : "epyyyWsUKCaQvucfJzT9tfk7G003"
+    },
+    "-L6GAIq588LeWg7sIVHp" : {
+      "BoardId" : "-L0OivJFTqpEFJ3Wgxvo",
+      "BoardModel" : "Mistral 12,6 M2 Rígida Tipo RACE",
+      "EndDate" : "2018-02-27T00:00:00",
+      "StartDate" : "2018-02-26T00:00:00+01:00",
+      "Status" : 2,
+      "UserId" : "epyyyWsUKCaQvucfJzT9tfk7G003"
+    },
+    "-L6GVGOB6qvq8yDccxkv" : {
+      "BoardId" : "-L0PdP4SPXbgqN7a_VCC",
+      "BoardModel" : "RedPaddle 22 DRAGON Tipo RACE (4 personas)",
+      "EndDate" : "2018-02-28T00:00:00",
+      "StartDate" : "2018-02-27T00:00:00",
+      "Status" : 2,
+      "UserId" : "HgXJwlMo77Oh5Ljcj7x2QDNKucX2"
+    }
+  }
+}
