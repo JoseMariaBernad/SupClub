@@ -8,10 +8,10 @@ Known Paddle Surf clubs using this application:
 
 ## How to Install
 1. [Clone](x-github-client://openRepo/https://github.com/JoseMariaBernad/SupClub) or [Download](https://github.com/JoseMariaBernad/SupClub/archive/master.zip) this repository.
-2. Go to your [Firebase Console].(https://console.firebase.google.com/)
-3. Create new Firebase project.
+2. Go to your [Firebase Console](https://console.firebase.google.com/).
+3. Create new Firebase project.![Add project](https://lh3.googleusercontent.com/6NqWWvFG2FCTv9jWKo2zAfSoNlgTWyP9exAc1tTZawVHkSxHlDTr5TzB0CNFMMJJOX4aEkiO1Is "Add project")
 4. Under Authentication, Add Email/Password Sign In method. ![Sign-In Method](https://lh3.googleusercontent.com/tQQ_Vltm0rww31nU8Y17xf9sBzyurTkX7HTwcSdt3Q8Vyv9iErfukHVv2rCOtYf9va68Zy91uTY)
 5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTI0MjY4NF19
+eyJoaXN0b3J5IjpbMTIwMzUzODE3MF19
 -->
