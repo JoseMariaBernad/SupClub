@@ -22,13 +22,13 @@ Known Paddle Surf clubs using this application:
 8. Take note of following variables:
     - apiKey: "xxxxyyyyyyzzzzzzzzzzz"
     - databaseURL:  "https://\<your-firebase-project>.firebaseio.com"
-9. Under Data, select Import Json to get an initial database with a valid structure with some initial boards.
+9. Under Data, select Import Json to get an initial database with a valid structure with some initial boards. Use following [supclub-db.json](/SupClubLib/supclub-db.json)
 ![enter image description here](https://lh3.googleusercontent.com/AgrHqcbgUICGwep9tRhAtpr2QfuwQ5hxBkuME3rRX8TI6Bxbl8E7IkMYMvq4YqmQGF9AovyqqtI "Import Json") 
 
 10. In Visual Studio, replace all the occurrences of these strings with the ones obtained in the previous step.
  - \<YourFirebaseApiKey> 
  - \<YourFirebaseDatabaseURL>
-12. 
+11. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTg3NzQyNV19
+eyJoaXN0b3J5IjpbMTIxNTc2MDUxMl19
 -->
