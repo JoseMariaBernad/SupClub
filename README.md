@@ -7,7 +7,8 @@ Known Paddle Surf clubs using this application:
 [Aficionados SUP Zaragoza](http://supclub.es)
 
 ## How to Install
-1. [Clone](x-github-client://openRepo/https://github.com/JoseMariaBernad/SupClub) or [Download]() this repository
+1. [Clone](x-github-client://openRepo/https://github.com/JoseMariaBernad/SupClub) or [Download](https://github.com/JoseMariaBernad/SupClub/archive/master.zip) this repository.
+2. Go to your [Firebase Console](https://console.firebase.google.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODIyNzE0M119
+eyJoaXN0b3J5IjpbLTEyNjMyNzIzMDddfQ==
 -->
