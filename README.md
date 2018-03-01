@@ -13,8 +13,11 @@ Known Paddle Surf clubs using this application:
 
 ![Add project](https://lh3.googleusercontent.com/6NqWWvFG2FCTv9jWKo2zAfSoNlgTWyP9exAc1tTZawVHkSxHlDTr5TzB0CNFMMJJOX4aEkiO1Is "Add project")
 
-5. Under Authentication, Add Email/Password Sign In method.
+4. Under Authentication, Add Email/Password Sign In method.
 ![Sign-In Method](https://lh3.googleusercontent.com/tQQ_Vltm0rww31nU8Y17xf9sBzyurTkX7HTwcSdt3Q8Vyv9iErfukHVv2rCOtYf9va68Zy91uTY)
+9. Under Database / Data, select Import Json to get an initial database with a valid structure with some initial boards. Use file [supclub-db.json](/SupClubLib/supclub-db.json) as initial sample database with some boards.
+![enter image description here](https://lh3.googleusercontent.com/AgrHqcbgUICGwep9tRhAtpr2QfuwQ5hxBkuME3rRX8TI6Bxbl8E7IkMYMvq4YqmQGF9AovyqqtI "Import Json") 
+
 6. Under database / rules, paste the contents of the file [rules.json](/SupClubLib/rules.json) and click Publish.
 ![enter image description here](https://lh3.googleusercontent.com/Z0PsNOas0NWpaRIuil6MBSO3TXA00dVfKfSCrOKjRpuoCDfCZqFc-vcyB9K8P8dJ0hQlgEb88E8 "Database rules")
 7. Under Authentication, click WEB SETUP link.
@@ -22,13 +25,11 @@ Known Paddle Surf clubs using this application:
 8. Take note of following variables:
     - apiKey: "xxxxyyyyyyzzzzzzzzzzz"
     - databaseURL:  "https://\<your-firebase-project>.firebaseio.com"
-9. Under Database / Data, select Import Json to get an initial database with a valid structure with some initial boards. Use file [supclub-db.json](/SupClubLib/supclub-db.json) as initial sample database with some boards.
-![enter image description here](https://lh3.googleusercontent.com/AgrHqcbgUICGwep9tRhAtpr2QfuwQ5hxBkuME3rRX8TI6Bxbl8E7IkMYMvq4YqmQGF9AovyqqtI "Import Json") 
 
 10. In Visual Studio, replace all the occurrences of these strings with the ones obtained in the previous step.
  - \<YourFirebaseApiKey> 
  - \<YourFirebaseDatabaseURL>
 11. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzA2MjQxMV19
+eyJoaXN0b3J5IjpbMTY0MzcyNDI3NF19
 -->
