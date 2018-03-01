@@ -11,6 +11,7 @@ Known Paddle Surf clubs using this application:
 2. Go to your [Firebase Console].(https://console.firebase.google.com/)
 3. Create new Firebase project.
 4. Under Authentication, Add Email/Password Sign In method. ![enter image description here](https://lh3.googleusercontent.com/tQQ_Vltm0rww31nU8Y17xf9sBzyurTkX7HTwcSdt3Q8Vyv9iErfukHVv2rCOtYf9va68Zy91uTY)
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjg3MzMxOF19
+eyJoaXN0b3J5IjpbMTcyMzE0ODE1M119
 -->
