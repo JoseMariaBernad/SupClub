@@ -6,6 +6,7 @@ Its intended use is for the users of any Paddle Surf club to be able to make res
 Known Paddle Surf clubs using this application:
 [Aficionados SUP Zaragoza] (http://supclub.es)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTk1ODg1N119
+eyJoaXN0b3J5IjpbNDA2NTkxNzk5XX0=
 -->
