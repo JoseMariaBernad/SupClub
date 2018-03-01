@@ -19,7 +19,8 @@ Known Paddle Surf clubs using this application:
 ![enter image description here](https://lh3.googleusercontent.com/Z0PsNOas0NWpaRIuil6MBSO3TXA00dVfKfSCrOKjRpuoCDfCZqFc-vcyB9K8P8dJ0hQlgEb88E8 "Database rules")
 7. Under Authentication, click WEB SETUP link.
 ![enter image description here](https://lh3.googleusercontent.com/7BCJ1OVLkMtk38UoqeD76Mq80VaL9fV4gpjX9h3xcaZyWnN4_4LqMbFFW8wB9XUQZ0XhqcHEZtQ "Web Setup")
-8. 
+8. Take note of following variables:
+    - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzODgyMjI0XX0=
+eyJoaXN0b3J5IjpbLTEyMTIwMDU5NTldfQ==
 -->
