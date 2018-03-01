@@ -1,6 +1,6 @@
 # SupClub
-SupClub is an open source application for the Xamarin Forms platform. Its intended use is for t
+SupClub is an open source application for the Xamarin Forms platform. Its intended use is for the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzQ4ODA0MF19
+eyJoaXN0b3J5IjpbLTE5MjQ0MTM1NzldfQ==
 -->
